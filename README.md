@@ -13,7 +13,7 @@ Dashboard interactivo que muestra la relación entre gasto en campañas y volume
 **Tecnologías usadas:**  
 Power BI, Power Query, DAX, Excel
 
-📁 [Ver carpeta del proyecto](./powerbi-campañas-demografia)
+📁 [Ver carpeta del proyecto](./powerbi-[campañas-demografia](https://github.com/ANcotrim/Proyectos-praticas/blob/main/SQL-AdrianaCotrim.docx))
 
 ---
 
