@@ -13,7 +13,6 @@ Dashboard interactivo que muestra la relación entre gasto en campañas y volume
 **Tecnologías usadas:**  
 Power BI, Power Query, DAX, Excel
 
-📁 [Ver carpeta del proyecto](./powerbi-[campañas-demografia](https://github.com/ANcotrim/Proyectos-praticas/blob/main/SQL-AdrianaCotrim.docx))
 
 ---
 
@@ -25,7 +24,7 @@ Análisis detallado del rendimiento de productos, evolución de ventas por categ
 **Tecnologías usadas:**  
 Power BI, Excel, modelado de datos, visualizaciones personalizadas
 
-📁 [Ver carpeta del proyecto](./powerbi-ventas-productos)
+
 
 ---
 
@@ -37,7 +36,6 @@ Proyecto de análisis de datos mediante SQL, con enfoque en consultas complejas,
 **Tecnologías usadas:**  
 SQL, PostgreSQL / MySQL (dependiendo del entorno), DB Browser
 
-📁 [Ver carpeta del proyecto](./sql-consultas-grafos)
 
 ---
 
